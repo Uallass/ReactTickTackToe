@@ -33,6 +33,10 @@ code {
   display: table;
 }
 
+.highlight {
+  background-color: yellow;
+}
+
 .status {
   margin-bottom: 10px;
 }
